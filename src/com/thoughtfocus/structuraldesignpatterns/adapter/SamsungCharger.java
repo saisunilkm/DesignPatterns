@@ -1,5 +1,7 @@
 package com.thoughtfocus.structuraldesignpatterns.adapter;
 
+import com.thoughtfocus.structuraldesignpatterns.adapter.Charger;
+
 public class SamsungCharger implements Charger {
 
     String mobileName;
